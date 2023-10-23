@@ -18,9 +18,7 @@
 
 🌐 When it comes to web development, I'm in my element. From crafting responsive and user-friendly interfaces to architecting robust backends, I relish every aspect of creating web applications. The endless possibilities of the web and the power to make information accessible and interactive are what keep me excited about this field.
 
-🚀 I'm a firm believer in open source, collaboration, and the developer community. I'm here to share my projects, contribute to others, and learn from the vast wealth of knowledge that GitHub offers. Let's connect, collaborate, and write the future of the web together!
-
-🔗 You can also find me on my personal website [YourWebsite.com], where I share insights, tutorials, and updates on my projects. 
+🚀 I'm a firm believer in open source, collaboration, and the developer community. I'm here to share my projects, contribute to others, and learn from the vast wealth of knowledge that GitHub offers. Let's connect, collaborate, and write the future of the web together! 
 
 📫 Feel free to reach out if you'd like to discuss anything related to programming, web development, or just want to chat about our favorite programming languages over a virtual cup of coffee. Let's code the world better, one commit at a time!
 
