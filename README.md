@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
+
 [![wakatime](https://wakatime.com/badge/user/f4c47eff-1865-493d-9fdd-58464aed559f.svg)](https://wakatime.com/@f4c47eff-1865-493d-9fdd-58464aed559f)
 
 
@@ -25,6 +26,9 @@
 </div>
 
 
+<p float="left" align="center">
+  <img src="https://wakatime.com/share/@lucasvillefort/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
+</p>
 
 
 Happy coding! 🚀
