@@ -22,7 +22,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvillefort&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasvillefort)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?lucasvillefort)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
