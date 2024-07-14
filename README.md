@@ -57,4 +57,4 @@ Happy coding! 🚀
       <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,git,github,bash,linux" />
   </a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
+<img alt="github-snake"  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
