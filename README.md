@@ -24,13 +24,7 @@
   
 </div>
 
-<div>
-  <p float="left" align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=lucasvillefort&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="180px" />
-  &nbsp; &nbsp;
-  <img src="https://wakatime.com/share/@lucasvillefort/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
-  </p>
-</div>
+
 
 
 Happy coding! 🚀
