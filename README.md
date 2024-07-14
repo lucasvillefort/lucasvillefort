@@ -26,9 +26,7 @@
 </div>
 
 
-<p float="left" align="center">
-  <img src="https://wakatime.com/share/@lucasvillefort/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
-</p>
+<figure><embed src="https://wakatime.com/share/@94bea7c5-f802-4b50-8c98-e4c1f55547a9/1aed7d03-ed67-41d2-9250-10d08cc0b7a5.svg"></embed></figure>
 
 
 Happy coding! 🚀
