@@ -26,7 +26,7 @@
 </div>
 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvillefort&layout=compact)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasvillefort)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
