@@ -24,11 +24,15 @@
 </div>
 
 <div>
-  <div align="center">
-  <a href="https://github.com/lucasvillefort">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvillefort&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvillefort&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvillefort&theme=radical&layout=compact" height="150px" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasvillefort&show_icons=true&title_color=f7418a&icon_color=BBB&text_color=BBB&bg_color=141321&include_all_commits=true" height="150px" />
+</p>
+
+<p float="left" align="center">
+  <img src="https://wakatime.com/share/@lucasvillefort/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
+</p>
 </div>
 
 
