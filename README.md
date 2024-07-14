@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimelucasvillefort)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?lucasvillefort)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Sobre:</h3>
 <p>
