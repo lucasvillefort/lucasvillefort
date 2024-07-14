@@ -15,6 +15,14 @@
 
 📫 Feel free to reach out if you'd like to discuss anything related to programming, web development, or just want to chat about our favorite programming languages over a virtual cup of coffee. Let's code the world better, one commit at a time!
 
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas Villefort&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas Villefort&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
+
 Happy coding! 🚀
 </p>
 <h3 align="left">Contatos:</h3>
