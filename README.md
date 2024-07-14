@@ -45,7 +45,7 @@ Happy coding! 🚀
 <a href="https://www.linkedin.com/in/lucasvillefort11" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 <h3 align="left">Tecnologias que mais uso:</h3>
-<p align="left">
+
   <div align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
@@ -57,5 +57,4 @@ Happy coding! 🚀
       <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,git,github,bash,linux" />
   </a>
 </div>
-</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
