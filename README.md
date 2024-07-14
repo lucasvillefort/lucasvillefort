@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
 
-[![wakatime](https://wakatime.com/badge/user/f4c47eff-1865-493d-9fdd-58464aed559f.svg)](https://wakatime.com/@f4c47eff-1865-493d-9fdd-58464aed559f)
+
 
 
 <h3 align="left">Sobre:</h3>
@@ -26,7 +26,7 @@
 </div>
 
 
-<figure><embed src="https://wakatime.com/share/@94bea7c5-f802-4b50-8c98-e4c1f55547a9/bb97e554-9f02-4339-9938-56417c47dc2f.svg"></embed></figure>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 
 Happy coding! 🚀
