@@ -26,7 +26,7 @@
 </div>
 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvillefort&langs_count=25)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
