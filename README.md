@@ -19,14 +19,7 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasvillefort&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvillefort&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
-
-  
-<div>
+  <div>
    <a href="https://github.com/lucasvillefort">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvillefort&layout=compact&hide_border=true&theme=radical&langs_count=10" />
@@ -41,21 +34,24 @@
 <!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
 </a></p >
 
- <p align="center">
+
+<p align="center">
 <a href="https://github.com/lucasvillefort">
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvillefort&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="lucasvillefort's github stats"/>
-
 </a>
-
 <br/>
-
 </p >
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvillefort&theme=algolia" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasvillefort&theme=algolia" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasvillefort&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 
+
+  
+</div>
+
+  
 
 Happy coding! 🚀
 </p>
