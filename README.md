@@ -36,6 +36,21 @@
         </a>
 </div>
 
+<p align="center"> 
+<a href="https://user-badge.committers.top/morocco/lucasvillefort"> 
+<!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
+</a></p >
+
+ <p align="center">
+<a href="https://github.com/lucasvillefort">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvillefort&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="lucasvillefort's github stats"/>
+
+</a>
+
+<br/>
+
+</p >
 
 
 Happy coding! 🚀
