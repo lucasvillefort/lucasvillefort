@@ -52,6 +52,10 @@
 
 </p >
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvillefort&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasvillefort&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasvillefort&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+
 
 Happy coding! 🚀
 </p>
