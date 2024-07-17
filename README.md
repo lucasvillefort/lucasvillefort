@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/lucasvillefort"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=lucasvillefort" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Lucas Villefort" alt="Typing SVG" />
 </a>
 <br/>
 
