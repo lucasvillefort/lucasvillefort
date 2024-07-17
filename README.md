@@ -75,7 +75,7 @@ Happy coding! 🚀
 <p align="left">
 <a href="https://www.linkedin.com/in/lucasvillefort11" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
-<h3 align="left">Sone technologies that I learned:</h3>
+<h3 align="left">Some technologies I learned:</h3>
 
   <div align="center">
   <a href="https://skillicons.dev">
