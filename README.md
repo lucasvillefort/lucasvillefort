@@ -81,7 +81,7 @@ Happy coding! 🚀
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
       <br />
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c++" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,php" />
       <br />
       <img src="https://skillicons.dev/icons?i=vite,react,vue,npm,nodejs,express" />
       <br />
