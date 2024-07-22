@@ -79,13 +79,13 @@ Happy coding! 🚀
 
   <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css," />
       <br />
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,php" />
+      <img src="https://skillicons.dev/icons?i=javascript,python,java,php" />
       <br />
       <img src="https://skillicons.dev/icons?i=vite,react,vue,npm,nodejs,express" />
       <br />
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,git,github,bash,linux" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,git,github,linux" />
   </a>
 </div>
 <img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
