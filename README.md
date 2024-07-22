@@ -80,9 +80,9 @@ Happy coding! 🚀
   <div align="center">
   <a href="https://skillicons.dev">
       <br />
-      <img src="https://skillicons.dev/icons?i=javascript,python,java,php, html,css,vue,npm,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=javascript,python,java,php,html,css,npm,nodejs,express" />
       <br />
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,git,github,linux,vite,react" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,git,github,linux,vite,react, vue" />
   </a>
 </div>
 <img  width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
