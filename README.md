@@ -93,7 +93,9 @@ Happy coding! 🚀
   <div align="center">
   <a href="https://skillicons.dev">
       <br />
-      <img src="https://skillicons.dev/icons?i=javascript,python,java,php,html,css,npm,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=javascript,python,sql,java,html,css,npm,nodejs,express" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=Scikit-learn,TensorFlow,PyTorch,Matplotlib,Seaborn,Plotly" />
       <br />
       <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,git,github,linux,vite,react,vue" />
   </a>
