@@ -27,11 +27,24 @@
 
 💻 I've been tinkering with code since I can remember, and it's not just a job for me – it's a way of life. I find joy in bringing ideas to life through elegant and functional code, and I'm constantly exploring new technologies and tools to stay on the cutting edge.
 
-🌐 When it comes to web development, I'm in my element. From crafting responsive and user-friendly interfaces to architecting robust backends, I relish every aspect of creating web applications. The endless possibilities of the web and the power to make information accessible and interactive are what keep me excited about this field.
+🌐 🚀 About Me
+I have a strong interest in solving real-world problems using data-driven approaches. My expertise lies in:
+
+  Data Analysis & Visualization: Uncovering insights from complex datasets.
+  
+  Machine Learning: Building predictive models and deploying them into production.
+  
+  Deep Learning: Exploring neural networks for image recognition, NLP, and more.
+  
+  Big Data: Working with large-scale datasets using tools like Spark and Hadoop.
+  
+  AI Ethics: Ensuring fairness, transparency, and accountability in AI systems.
+
+I believe in continuous learning and sharing knowledge with the community. Let's grow together! 🌱
 
 🚀 I'm a firm believer in open source, collaboration, and the developer community. I'm here to share my projects, contribute to others, and learn from the vast wealth of knowledge that GitHub offers. Let's connect, collaborate, and write the future of the web together! 
 
-📫 Feel free to reach out if you'd like to discuss anything related to programming, web development, or just want to chat about our favorite programming languages over a virtual cup of coffee. Let's code the world better, one commit at a time!
+📫 Feel free to reach out if you'd like to discuss anything related to programming or just want to chat about our favorite programming languages over a virtual cup of coffee. Let's code the world better, one commit at a time!
 
 <div align="center">  
   
