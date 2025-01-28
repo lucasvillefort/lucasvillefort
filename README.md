@@ -23,7 +23,7 @@
 
 <h3 align="left">Sobre:</h3>
 <p>
-👋 Hello, fellow developer! I'm [Lucas Villefort], and I have an unbridled passion for programming and web development. 
+👋 Hello, fellow developer! I'm [Lucas Villefort], and I have an unbridled passion for programming, data science, AI and ML. 
 
 💻 I've been tinkering with code since I can remember, and it's not just a job for me – it's a way of life. I find joy in bringing ideas to life through elegant and functional code, and I'm constantly exploring new technologies and tools to stay on the cutting edge.
 
