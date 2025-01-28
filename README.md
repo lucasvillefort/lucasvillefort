@@ -29,41 +29,30 @@
 
 🌐 🚀 About Me
 I have a strong interest in solving real-world problems using data-driven approaches. My expertise lies in:
-
-  Data Analysis & Visualization: Uncovering insights from complex datasets.
-  
-  Machine Learning: Building predictive models and deploying them into production.
-  
-  Deep Learning: Exploring neural networks for image recognition, NLP, and more.
-  
-  Big Data: Working with large-scale datasets using tools like Spark and Hadoop.
-  
-  AI Ethics: Ensuring fairness, transparency, and accountability in AI systems.
+  - Data Analysis & Visualization: Uncovering insights from complex datasets.
+  - Machine Learning: Building predictive models and deploying them into production.
+  - Deep Learning: Exploring neural networks for image recognition, NLP, and more.
+  - Big Data: Working with large-scale datasets using tools like Spark and Hadoop.
+  - AI Ethics: Ensuring fairness, transparency, and accountability in AI systems.
 
 🔧 Skills & Tools
-Programming Languages
-Python 🐍
+Programming Languages:
+- Python 🐍
+- R 📊
+- SQL 🗃️
 
-R 📊
+Machine Learning Frameworks:
+- Scikit-learn 🤖
+- TensorFlow 🧠
+- PyTorch 🔥
 
-SQL 🗃️
+Data Visualization:
+- Matplotlib 📈
+- Seaborn 🌊
+- Plotly ✨
 
-Machine Learning Frameworks
-Scikit-learn 🤖
-
-TensorFlow 🧠
-
-PyTorch 🔥
-
-Data Visualization
-Matplotlib 📈
-
-Seaborn 🌊
-
-Plotly ✨
-
-Big Data Tools
-Apache Spark ⚡
+Big Data Tools:
+- Apache Spark ⚡
 
 I believe in continuous learning and sharing knowledge with the community. Let's grow together! 🌱
 
@@ -118,7 +107,7 @@ Happy coding! 🚀
   <div align="center">
   <a href="https://skillicons.dev">
       <br />
-      <img src="https://skillicons.dev/icons?i=javascript,python,sql,java,html,css,npm,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=javascript,python,java,html,css,npm,nodejs,express" />
       <br />
       <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,git,github,linux,vite,react,vue" />
   </a>
