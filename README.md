@@ -40,6 +40,31 @@ I have a strong interest in solving real-world problems using data-driven approa
   
   AI Ethics: Ensuring fairness, transparency, and accountability in AI systems.
 
+🔧 Skills & Tools
+Programming Languages
+Python 🐍
+
+R 📊
+
+SQL 🗃️
+
+Machine Learning Frameworks
+Scikit-learn 🤖
+
+TensorFlow 🧠
+
+PyTorch 🔥
+
+Data Visualization
+Matplotlib 📈
+
+Seaborn 🌊
+
+Plotly ✨
+
+Big Data Tools
+Apache Spark ⚡
+
 I believe in continuous learning and sharing knowledge with the community. Let's grow together! 🌱
 
 🚀 I'm a firm believer in open source, collaboration, and the developer community. I'm here to share my projects, contribute to others, and learn from the vast wealth of knowledge that GitHub offers. Let's connect, collaborate, and write the future of the web together! 
@@ -94,8 +119,6 @@ Happy coding! 🚀
   <a href="https://skillicons.dev">
       <br />
       <img src="https://skillicons.dev/icons?i=javascript,python,sql,java,html,css,npm,nodejs,express" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=Scikit-learn,TensorFlow,PyTorch,Matplotlib,Seaborn,Plotly" />
       <br />
       <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,git,github,linux,vite,react,vue" />
   </a>
